@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.7c5fe68a.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/0.7c5fe68a.chunk.js",
+    "main.css": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/css/main.0ac96f74.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/main.613b061d.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/runtime-main.1bd4dbda.js",
+    "static/js/3.2d223d56.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/3.2d223d56.chunk.js",
+    "static/js/4.39911c8b.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/4.39911c8b.chunk.js",
+    "static/js/5.88becb38.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/5.88becb38.chunk.js",
+    "static/js/6.61c1ff69.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/6.61c1ff69.chunk.js",
+    "static/js/7.82c46189.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/7.82c46189.chunk.js",
+    "static/js/8.55b3bcd1.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/8.55b3bcd1.chunk.js",
+    "static/js/9.ba7d0cd4.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/9.ba7d0cd4.chunk.js",
+    "static/js/10.108f4132.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/10.108f4132.chunk.js",
+    "static/js/11.7bfb75a1.chunk.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/11.7bfb75a1.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/index.html",
+    "precache-manifest.123b8f3ab9872433df58d7a8e926eecf.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/precache-manifest.123b8f3ab9872433df58d7a8e926eecf.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/service-worker.js",
+    "static/js/3.2d223d56.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/3.2d223d56.chunk.js.LICENSE.txt",
+    "static/js/5.88becb38.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/5.88becb38.chunk.js.LICENSE.txt",
+    "static/js/6.61c1ff69.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/6.61c1ff69.chunk.js.LICENSE.txt",
+    "static/js/7.82c46189.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/7.82c46189.chunk.js.LICENSE.txt",
+    "static/js/8.55b3bcd1.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/js/8.55b3bcd1.chunk.js.LICENSE.txt",
+    "static/media/DAI.png": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/DAI.17db7fc2.png",
+    "static/media/USDC.png": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/USDC.c76b33ca.png",
+    "static/media/USDT.png": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/USDT.839a0f0d.png",
+    "static/media/index.css": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/basis-bg.240bfbe4.jpg",
+    "static/media/basis-bond-logo.svg": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/basis-bond-logo.80fb5592.svg",
+    "static/media/basis-cash-logo.svg": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/basis-cash-logo.92945994.svg",
+    "static/media/basis-share-logo.svg": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/basis-share-logo.466cf09b.svg",
+    "static/media/sUSD.png": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/sUSD.f8fec857.png",
+    "static/media/ycrv.png": "https://cdn.jsdelivr.net/gh/ocashs/basisdappprd@0.0.1/static/media/ycrv.88ae1ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bd4dbda.js",
+    "static/js/3.2d223d56.chunk.js",
+    "static/css/main.0ac96f74.chunk.css",
+    "static/js/main.613b061d.chunk.js"
+  ]
+}
